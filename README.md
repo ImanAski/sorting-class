@@ -46,3 +46,6 @@ A sorting algorithm is said to be stable if two objects with equal keys appear i
 
 ### In Place
 An in-place algorithm is an algorithm that does not need an extra space and produces an output in the same memory that contains the data by transforming the input 'in-place'.
+
+## Result
+![result](https://github.com/ImanAski/sorting-class/assets/35419873/d205e6eb-11ec-40b7-b5e9-29086dbd1832)
