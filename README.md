@@ -38,3 +38,11 @@ Time complexity analysis:
 |In-place?|Stable?|
 |---|---|
 |Yes|Yes|
+
+## Some ters
+
+### Stable
+A sorting algorithm is said to be stable if two objects with equal keys appear in the same order in sorted output as they appear in the input data set
+
+### In Place
+An in-place algorithm is an algorithm that does not need an extra space and produces an output in the same memory that contains the data by transforming the input 'in-place'.
